@@ -171,6 +171,7 @@ Maintained by the team behind [IndepAI](https://indepai.app), the financial-inde
 - [Remotive](https://remotive.com/) - Board with weekly additions across tech and non-tech roles; full access sits behind a paid tier.
 - [Jobspresso](https://jobspresso.co/) - Hand-checked remote listings in tech, marketing, and support from established companies.
 - [Himalayas](https://himalayas.app/) - Board with over 100,000 live roles plus free tools for profiles, resumes, and applications.
+- [Jaabz](https://jaabz.com/) - Tech jobs with visa sponsorship, relocation, and remote filters.
 - [Wellfound](https://wellfound.com/) - Startup job marketplace (formerly AngelList Talent) where you apply to founders with pay and equity shown upfront.
 - [Dynamite Jobs](https://dynamitejobs.com/) - Fully remote roles at remote-first companies, tied to the Dynamite Circle founder community.
 - [Contra](https://contra.com/) - Commission-free marketplace for hiring and paying freelancers in design, development, and creative work.
