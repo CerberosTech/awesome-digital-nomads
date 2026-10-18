@@ -100,6 +100,7 @@ Maintained by the team behind [IndepAI](https://indepai.app), the financial-inde
 - [ActeRO](https://actero.ro/) - Free Romanian-language guide to consular paperwork abroad: ID card and passport renewal, powers of attorney, and birth/marriage certificate transcription for Romanians in Germany, Italy, Spain, France, and the UK.
 - [Daybound](https://daybound.9ek.ru/) - Free Schengen 90/180 calculator and per-country day tracker over the calendar year and a rolling 12 months, with a Telegram app that auto-detects your country by GPS and warns before you hit the limit.
 - [Take Root Abroad](https://takerootabroad.com/) - Move-abroad planner for US citizens that compares 20+ countries by visa route for remote workers and retirees, all-in cost, and the US tax picture, with a free country-fit quiz and per-country timelines.
+- [Residency Radar](https://residencyradar.org/) - Free reference for residency and citizenship rules in 163 countries, with source-cited program comparisons (digital nomad, investment, retirement, work) and a public weekly changelog.
 
 ## Trip Planning
 
