@@ -78,6 +78,7 @@ Maintained by the team behind [IndepAI](https://indepai.app), the financial-inde
 - [Your Tax Base](https://yourtaxbase.com/) - Helps US mobile workers set up Florida domicile to avoid state income tax, handling the Florida address, Declaration of Domicile, and supporting paperwork.
 - [Radar Fiscal](https://radarfiscal.es) - Free calendar of Spanish autónomo tax deadlines (Modelo 303, 130, 111, Seguridad Social) showing each filing window and due date, with a Chrome and Firefox extension for reminders.
 - [Belastingcalculator](https://cerberostech.github.io/belastingcalculator/) - Free Dutch tax calculator in English and Dutch that estimates 2026 take-home pay, zzp (freelancer) income tax and box 3, including the 30% ruling for people relocating to the Netherlands.
+- [Tax Residency Days](https://taxresidencydays.com) - Free, no-signup calculator that runs one travel ledger against 15 countries' tax-residency day tests — US Substantial Presence Test, UK Statutory Residence Test, 183-day rules, plus the Schengen 90/180 stay limit — showing the exact arithmetic and official sources. 100% in-browser.
 
 ## Insurance
 
@@ -100,6 +101,7 @@ Maintained by the team behind [IndepAI](https://indepai.app), the financial-inde
 - [ActeRO](https://actero.ro/) - Free Romanian-language guide to consular paperwork abroad: ID card and passport renewal, powers of attorney, and birth/marriage certificate transcription for Romanians in Germany, Italy, Spain, France, and the UK.
 - [Daybound](https://daybound.9ek.ru/) - Free Schengen 90/180 calculator and per-country day tracker over the calendar year and a rolling 12 months, with a Telegram app that auto-detects your country by GPS and warns before you hit the limit.
 - [Take Root Abroad](https://takerootabroad.com/) - Move-abroad planner for US citizens that compares 20+ countries by visa route for remote workers and retirees, all-in cost, and the US tax picture, with a free country-fit quiz and per-country timelines.
+- [Residency Radar](https://residencyradar.org/) - Free reference for residency and citizenship rules in 163 countries, with source-cited program comparisons (digital nomad, investment, retirement, work) and a public weekly changelog.
 
 ## Trip Planning
 
@@ -135,6 +137,7 @@ Maintained by the team behind [IndepAI](https://indepai.app), the financial-inde
 - [Outsite](https://www.outsite.co/) - Membership network of coliving houses in remote-work destinations, from Lisbon to Bali.
 - [TrustedHousesitters](https://www.trustedhousesitters.com/) - Membership marketplace pairing travelers with homeowners for free stays in exchange for pet and house sitting.
 - [StayingAPI](https://stayingapi.com/) - Developer API for accommodation data across Airbnb, Booking.com, Vrbo, and Google Hotels: listings, live pricing, and availability to build your own rental and stay search.
+- [yumpara](https://yumpara.com/) - Single rooms and studio flats rented directly from the host for a month or longer, with no agency and no commission, in 9 European cities.
 
 ## Connectivity
 
@@ -151,7 +154,9 @@ Maintained by the team behind [IndepAI](https://indepai.app), the financial-inde
 - [UK SIM Keep-Number Reminder](https://getgiffgaff.com/tools/keep-number-reminder/) - Creates an early fifth-month calendar reminder for an infrequently used giffgaff SIM; runs locally, exports an ICS file, and stores no phone number or account details.
 - [eSIMzio](https://esimzio.com/) - Travel eSIM app for 200+ destinations that shows real prices up front, live data usage read from the carrier, and each plan’s fair-usage limit before you buy. Available for iOS and Android.
 - [Simnity](https://simnity.com/) - Travel eSIM for 190+ countries that pairs prepaid 5G data with a local number for voice calls and SMS, alongside a device-compatibility checker and plans priced in USD or INR.
+- [CryptoeSIM](https://cryptoesim.io/) - Crypto-native travel eSIM for 190+ countries with Bitcoin, Lightning, USDT and Monero checkout and no KYC; see [CryptoeSIM vs Holafly](https://cryptoesim.io/blog/cryptoesim-vs-holafly).
 - [YouChina](https://www.you-china.com/en/best-esim-for-china) - Source-linked comparison of travel eSIM, local SIM, and VPN options for mainland China, for visitors who need data that still works behind the firewall.
+- [WifiSpot](https://play.google.com/store/apps/details?id=com.dksequence.wifispot) - Android app with a live Wi-Fi signal gauge for finding where the connection is strongest in a room or rental, with saved readings per room.
 
 ## Communities
 
@@ -172,6 +177,7 @@ Maintained by the team behind [IndepAI](https://indepai.app), the financial-inde
 - [Remotive](https://remotive.com/) - Board with weekly additions across tech and non-tech roles; full access sits behind a paid tier.
 - [Jobspresso](https://jobspresso.co/) - Hand-checked remote listings in tech, marketing, and support from established companies.
 - [Himalayas](https://himalayas.app/) - Board with over 100,000 live roles plus free tools for profiles, resumes, and applications.
+- [Jaabz](https://jaabz.com/) - Tech jobs with visa sponsorship, relocation, and remote filters.
 - [Wellfound](https://wellfound.com/) - Startup job marketplace (formerly AngelList Talent) where you apply to founders with pay and equity shown upfront.
 - [Dynamite Jobs](https://dynamitejobs.com/) - Fully remote roles at remote-first companies, tied to the Dynamite Circle founder community.
 - [Contra](https://contra.com/) - Commission-free marketplace for hiring and paying freelancers in design, development, and creative work.
