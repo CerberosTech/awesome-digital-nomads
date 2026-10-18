@@ -97,6 +97,8 @@ Maintained by the team behind [IndepAI](https://indepai.app), the financial-inde
 - [Nomad Capitalist](https://nomadcapitalist.com/) - Consultancy for second residency, citizenship, and legal tax planning for people who live across borders.
 - [Get Golden Visa](https://www.getgoldenvisa.com/) - Residency and citizenship-by-investment consultancy covering programs in Portugal, Greece, Malta, and the Caribbean.
 - [ActeRO](https://actero.ro/) - Free Romanian-language guide to consular paperwork abroad: ID card and passport renewal, powers of attorney, and birth/marriage certificate transcription for Romanians in Germany, Italy, Spain, France, and the UK.
+- [Daybound](https://daybound.9ek.ru/) - Free Schengen 90/180 calculator and per-country day tracker over the calendar year and a rolling 12 months, with a Telegram app that auto-detects your country by GPS and warns before you hit the limit.
+- [Take Root Abroad](https://takerootabroad.com/) - Move-abroad planner for US citizens that compares 20+ countries by visa route for remote workers and retirees, all-in cost, and the US tax picture, with a free country-fit quiz and per-country timelines.
 
 ## Trip Planning
 
@@ -107,6 +109,7 @@ Maintained by the team behind [IndepAI](https://indepai.app), the financial-inde
 - [Famxplor](https://www.famxplor.com/) - Finds family-tested vacation activities by destination, drawn from firsthand travel-blog accounts by parents traveling with kids.
 - [Wanderlog](https://wanderlog.com/) - Free multi-city itinerary builder with map routing, booking imports, and group collaboration.
 - [TripIt](https://www.tripit.com/) - Turns forwarded booking confirmations into one organized itinerary you can view offline and share.
+- [Travellagio](https://travellagio.com/) - Live flight price comparison across 44 destinations, paired with visa requirements, budget breakdowns, and seasonal guides for each one -- useful for planning a nomad route around visa windows and cost.
 
 ## Flights & Transport
 
@@ -130,6 +133,7 @@ Maintained by the team behind [IndepAI](https://indepai.app), the financial-inde
 - [FindYourColiving](https://findyourcoliving.com/) - Searchable directory of over 1,000 coliving spaces across 343 cities and 97 countries, with prices and amenities.
 - [Outsite](https://www.outsite.co/) - Membership network of coliving houses in remote-work destinations, from Lisbon to Bali.
 - [TrustedHousesitters](https://www.trustedhousesitters.com/) - Membership marketplace pairing travelers with homeowners for free stays in exchange for pet and house sitting.
+- [StayingAPI](https://stayingapi.com/) - Developer API for accommodation data across Airbnb, Booking.com, Vrbo, and Google Hotels: listings, live pricing, and availability to build your own rental and stay search.
 
 ## Connectivity
 
@@ -147,6 +151,7 @@ Maintained by the team behind [IndepAI](https://indepai.app), the financial-inde
 - [eSIMzio](https://esimzio.com/) - Travel eSIM app for 200+ destinations that shows real prices up front, live data usage read from the carrier, and each plan’s fair-usage limit before you buy. Available for iOS and Android.
 - [Simnity](https://simnity.com/) - Travel eSIM for 190+ countries that pairs prepaid 5G data with a local number for voice calls and SMS, alongside a device-compatibility checker and plans priced in USD or INR.
 - [CryptoeSIM](https://cryptoesim.io/) - Crypto-native travel eSIM for 190+ countries with Bitcoin, Lightning, USDT and Monero checkout and no KYC; see [CryptoeSIM vs Holafly](https://cryptoesim.io/blog/cryptoesim-vs-holafly).
+- [YouChina](https://www.you-china.com/en/best-esim-for-china) - Source-linked comparison of travel eSIM, local SIM, and VPN options for mainland China, for visitors who need data that still works behind the firewall.
 
 ## Communities
 
@@ -161,6 +166,7 @@ Maintained by the team behind [IndepAI](https://indepai.app), the financial-inde
 ## Remote Jobs
 
 - [We Work Remotely](https://weworkremotely.com/) - High-traffic board with new engineering, design, and marketing roles posted daily.
+- [Client Close Kit](https://darweesh128-cmd.github.io/client-close-kit/) - Free browser freelance tools: invoice, quote, timesheet, expense log, change order, and milestone payment schedule (no signup).
 - [Remote OK](https://remoteok.com/) - Chronological feed of roles from remote-first companies, sorted by recency with open-salary tags.
 - [Working Nomads](https://www.workingnomads.com/) - Aggregates remote jobs from across the web into filterable categories with daily updates and alerts.
 - [Remotive](https://remotive.com/) - Board with weekly additions across tech and non-tech roles; full access sits behind a paid tier.
@@ -173,6 +179,7 @@ Maintained by the team behind [IndepAI](https://indepai.app), the financial-inde
 - [AI Dev Jobs](https://aidevboard.com/) - Job board for AI and machine-learning roles with remote filters, salary data, and a public API for querying listings.
 - [4DayJob](https://4dayjob.com/) - Job board dedicated to four-day-week and reduced-hours roles, filterable by category, location, and region.
 - [FoundRole](https://www.foundrole.com/) - Free job-search tool pairing an hourly-updated board and remote filters with a kanban application tracker.
+- [Real Job Work From Home](https://realjobworkfromhome.com/) - Remote job board with free browsing, employment-type and salary-listed filters, and employer application links.
 
 ## Workspaces
 
@@ -181,6 +188,7 @@ Maintained by the team behind [IndepAI](https://indepai.app), the financial-inde
 - [LiquidSpace](https://liquidspace.com/) - Marketplace to book private offices, meeting rooms, and coworking by the hour, day, or month.
 - [Croissant](https://www.getcroissant.com/) - Single membership that unlocks day-pass access to coworking spaces in over 100 cities.
 - [Regus](https://www.regus.com/) - Global network of 4,000-plus workspaces offering hot-desk day passes and multi-location access plans.
+- [CoworkingView](https://coworkingview.com/en) - Comparison of coworking spaces, private offices and meeting rooms from many operators across about 60 European cities and Dubai, with a free per-city price index.
 
 ## City & Destination Data
 
