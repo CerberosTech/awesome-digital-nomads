@@ -154,6 +154,7 @@ Maintained by the team behind [IndepAI](https://indepai.app), the financial-inde
 - [Simnity](https://simnity.com/) - Travel eSIM for 190+ countries that pairs prepaid 5G data with a local number for voice calls and SMS, alongside a device-compatibility checker and plans priced in USD or INR.
 - [CryptoeSIM](https://cryptoesim.io/) - Crypto-native travel eSIM for 190+ countries with Bitcoin, Lightning, USDT and Monero checkout and no KYC; see [CryptoeSIM vs Holafly](https://cryptoesim.io/blog/cryptoesim-vs-holafly).
 - [YouChina](https://www.you-china.com/en/best-esim-for-china) - Source-linked comparison of travel eSIM, local SIM, and VPN options for mainland China, for visitors who need data that still works behind the firewall.
+- [WifiSpot](https://play.google.com/store/apps/details?id=com.dksequence.wifispot) - Android app with a live Wi-Fi signal gauge for finding where the connection is strongest in a room or rental, with saved readings per room.
 
 ## Communities
 
